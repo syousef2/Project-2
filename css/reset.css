@@ -1,1 +1,19 @@
+/* CSS Reset */
 
+body, h1, h2, h3, p, ul, ol, li, dl, dt, dd, img, pre {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

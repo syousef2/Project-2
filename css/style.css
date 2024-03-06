@@ -1,1 +1,69 @@
+@import url('reset.css');
 
+body {
+  font-family: 'Open Sans', sans-serif; 
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background-color: #FFF8DC
+}
+
+h1, h2 {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+nav {
+  text-align: center;
+  background-color: #3498db;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #2c3e50;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+  nav li {
+    display: block;
+    margin: 0;
+    padding: 10px 0;
+  }
+}
+
+.fluid-layout {
+  width: 100%;
+}
+
+.fixed-layout {
+  width: 960px;
+  margin: 0 auto;
+}

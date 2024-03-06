@@ -1,0 +1,37 @@
+ <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8">
+        <title>Project 1</title>
+         <link rel="stylesheet" href="css/reset.css">
+         <link rel="stylesheet" href="css/style.css">
+      </head>
+ 
+      <body>
+        <header>
+          <nav>
+            <ul>
+              <li><a href="index.html">Egypt</a></li>
+              <li><a href="resume.html">Resume</a></li>
+              <li><a href="photography.html">Photography</a></li>
+            </ul>
+          </nav>
+        </header>
+        <main>
+   <h1>Photography is making memories to myself</h1>
+   <section id="pics">
+   <h2>Each picture holds to a special moment in my life that I always want to keep it somewhere.</h2>
+   <p>I never saw a sunset that I didnt like.</p>
+   <img src="images/sunset.JPG" alt="pink sunset with houses">
+   <p>My cute little cousin</p>
+   <img src="images/test.jpg"  alt="a kid playing with sand by the beach">
+   <p>My first outing in Chicago</p>
+   <img src="images/sky.JPG" alt="Lakeshore,chicago">
+   <p>My favorite picture of one of many street cats in Egypt</p>
+      <img src="images/cat.jpg" alt="a cat with green eyes and green background">
+   <p>During a nice family trip to the starved Rock State Park</p>
+       <img src="images/lake.jpg" alt="Starved State Park ">
+	 </section>
+   </main>
+   </body>
+   </html>
