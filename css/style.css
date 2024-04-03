@@ -4,7 +4,8 @@ body {
   line-height: 1.5;
   margin: 0;
   padding: 0;
-  background-color: #FFF8DC
+  background-color: #FFF8DC;
+  margin-top: 80px;
 }
 
 h1, h2 {
@@ -54,12 +55,7 @@ footer {
   padding: 10px 0;
 }
 
-  nav li {
-    display: block;
-    margin: 0;
-    padding: 10px 0;
-  }
-.Alexandria {
+.alexandria {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -67,7 +63,7 @@ footer {
   width: auto;
 }
 
-.Caitbay {
+.egypt {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -75,7 +71,7 @@ footer {
   width: auto;
 }
 
-.Montaza {
+.cairo {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -83,35 +79,12 @@ footer {
   width: auto;
 }
 
-.Stanly {
+.mansoura {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.lake {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 350px;
-  width: auto;
-}
-
-.cat {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 350px;
-  width: auto;
-}
-
-.sky {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 350px;
-  width: auto;
-}
 
 .fluid-layout {
   width: 100%;
