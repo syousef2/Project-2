@@ -1,5 +1,6 @@
 body {
-  font-family: "Lora", "Times New Roman"; 
+  font-family: "Lora", "Times New Roman", "Arvo"; 
+  text-align: center;
   font-size: 16px;
   line-height: 1.5;
   margin: 0;
@@ -9,9 +10,20 @@ body {
 }
 
 h1, h2 {
-  font-family:" Lora", "Times New Roman";
+  font-family:"Lora", "Times New Roman", "Arvo";
+  margin-bottom: 1em;
+  padding: 0.1em;
   color: #333;
   text-align: center;
+}
+
+p {
+  font-family: "Lora", "Times New Roman", "Arvo"; 
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 0.1em;
+  color: black;
+  margin-bottom: 1em;
 }
 
 nav {
